@@ -6,7 +6,7 @@
 
 <div align="center">
   
-![home](https://www.icegif.com/wp-content/uploads/2022/03/icegif-1073.gif)
+![home](https://media1.tenor.com/m/G9sYKeFLxocAAAAd/elden-ring-goty.gif)
 </div>
 
 <hr>
