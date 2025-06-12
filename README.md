@@ -9,12 +9,12 @@
 ![home](https://media1.tenor.com/m/G9sYKeFLxocAAAAd/elden-ring-goty.gif)
 </div>
 
-<hr>
+#
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac Pernambuco. Atualmente trabalho com C# e estudo Java paralelamente.
 Estou constantemente atualizando meus conhecimentos e buscando novos conhecimentos na área de tecnologia tentando sempre buscar e criar soluções inovadoras para todo tipo de problema.
   
-<hr>
+#
 
 <h3 align="center">Connect with me!</h3>
 
@@ -25,7 +25,8 @@ Estou constantemente atualizando meus conhecimentos e buscando novos conheciment
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=Gmail&Color=14274e&link=mailto:robson.barreto.cav@gmail.com)](robson.barreto.cav@gmail.com)
 [![LeetCode Badge](https://img.shields.io/badge/-LeetCode-000?style=for-the-badge&logo=leetcode&Color=14274e&link=https://leetcode.com/binhoo0/)](https://leetcode.com/binhoo0/)
 </div>
-<hr>
+
+#
 
 <h3 align="center">My Stack ~</h3>
 
@@ -52,20 +53,20 @@ Estou constantemente atualizando meus conhecimentos e buscando novos conheciment
   <img width="8" />
 </div>
 
-<hr>
+#
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
   <br>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RobsonBGC&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=FF00F6&text_color=FFF&border_radius=3&border_color=36123c&icon_color=FF00F6&theme=jolly" alt="GitHub stats">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=RobsonBGC&hide_title=true&show_icons=true&include_all_commits=false&count_private=true&line_height=25&hide=issues&bg_color=000&title_color=9ca3db&text_color=FFF&border_radius=3&border_color=36123c&icon_color=9ca3db&theme=jolly" alt="GitHub stats">
 
   <a href="https://github.com/RobsonBGC/github-readme-stats">
-    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RobsonBGC&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=FF00F6&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
+    <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=RobsonBGC&line_height=10&card_width=290&layout=compact&hide_title=false&count_private=true&langs_count=4&show_icons=true&title_color=9ca3db&hide=html,scss,less&bg_color=000&text_color=8B8B8B&border_radius=3&border_color=561760&count_private=true" alt="Most Used Languages">
   </a>
 </div>
 
 
-<hr>
+#
 
  <p align="center">
 <picture align="center">
