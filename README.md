@@ -4,17 +4,28 @@
   </a>
 </div>
 
-#
+<div align="center">
+  
+![home](https://www.icegif.com/wp-content/uploads/2022/03/icegif-1073.gif)
+</div>
+
+<hr>
 
 <p align="center">Estudante de Análise e Desenvolvimento de Sistemas na Faculdade Senac Pernambuco. Atualmente trabalho com C# e estudo Java paralelamente.
 Estou constantemente atualizando meus conhecimentos e buscando novos conhecimentos na área de tecnologia tentando sempre buscar e criar soluções inovadoras para todo tipo de problema.
   
-#
+<hr>
 
 <h3 align="center">Connect with me!</h3>
 
+<div align="center">
+  
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=FF00F6&color:FFF)](mailto:robson.barreto.cav@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:FFF)](https://www.linkedin.com/in/robson-barreto-977867329/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?style=for-the-badge&logo=linkedin&logoColor=14274e&color:FFF)](https://www.linkedin.com/in/robson-barreto-977867329/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-000?style=for-the-badge&logo=Gmail&Color=14274e&link=mailto:robson.barreto.cav@gmail.com)](robson.barreto.cav@gmail.com)
+[![LeetCode Badge](https://img.shields.io/badge/-LeetCode-000?style=for-the-badge&logo=leetcode&Color=14274e&link=https://leetcode.com/binhoo0/)](https://leetcode.com/binhoo0/)
+</div>
+<hr>
 
 <h3 align="center">My Stack ~</h3>
 
@@ -41,7 +52,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos conheciment
   <img width="8" />
 </div>
 
-#
+<hr>
 
 <div style="text-align: center;" align="center">
   <h3>* GitHub Stats *</h3>
@@ -54,7 +65,7 @@ Estou constantemente atualizando meus conhecimentos e buscando novos conheciment
 </div>
 
 
-#
+<hr>
 
  <p align="center">
 <picture align="center">
