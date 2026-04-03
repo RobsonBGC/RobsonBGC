@@ -5,7 +5,7 @@
 
 <div align="center">
   
-![home](https://media1.tenor.com/m/G9sYKeFLxocAAAAd/elden-ring-goty.gif)
+
 </div>
 
 #
